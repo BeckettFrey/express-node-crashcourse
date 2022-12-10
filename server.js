@@ -22,4 +22,4 @@ function logger(req, res, next) {
   console.log(req.originalURL); // Shows undefined rather than url.
   next();
 }*/
-app.listen(3000);
+//app.listen(3000);
